@@ -69,7 +69,7 @@ const HowItWorks = () => {
                 <p className='text-gray font-semibold text-center mt-3'>
                     Honkai: Star Rail 
                 </p>
-                
+            </div>
 
                 <div className='hiw-text-container'>
                     <div className='flex flex-1 justify-center flex-col'>
@@ -93,7 +93,6 @@ const HowItWorks = () => {
                     </div>
                 </div>
                 
-            </div>
         </div>
     </section>
   )
